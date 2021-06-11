@@ -1,20 +1,7 @@
-This is your group repo for your final project for COGS108.
+# Project Overview
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+By completing this project, we sought to explain how the COVID-19 Bubble affected the home team advantage and altered NBA Playoff game statistics. To answer our question, we compiled game statistics from the 2015-2019 Playoff seasons, comparing them to those generated during the 2020 Bubble. We performed several statistical analyses, determining which game statistics changed significantly. Our results reveal that the Bubble playoffs eliminated the home team advantage. For both home and away teams, although their overall defensive statistics remained the same, offensive statistics improved. They suggest that the superior performance by the away teams was the primary factor contributing to the reduced win rate of the home teams.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+# Video Report
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+https://www.youtube.com/watch?v=khCc5D7SWw4
